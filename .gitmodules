@@ -1,0 +1,9 @@
+[submodule "movie-suggestion-app"]
+	path = movie-suggestion-app
+	url = https://github.com/ozggnr/movie-suggestion-app.git
+[submodule "movie-suggestion-backend"]
+	path = movie-suggestion-backend
+	url = https://github.com/ozggnr/movie-suggestion-backend.git
+[submodule "movie-match"]
+	path = movie-match
+	url = https://github.com/tugrulguner/movie-match.git
